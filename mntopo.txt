@@ -1,0 +1,4 @@
+First need to cline the code from github
+$sudo git clone https://githubu.com/udacity/gt-cs6250.git
+Install two libraries necessary to run the mesaurement code
+$ sudo apt-get install bwm-ng python-matplolib

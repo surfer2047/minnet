@@ -1,4 +1,4 @@
 minnet
 ======
 
-Mininet Automatic Installation Script
+Mininet Topology Desing using Software Defined Networking
